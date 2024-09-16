@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+.env
+/.netlify
+/.svelte-kit
+/package
+/build
+/src/lib/dummy.json
+/src/lib/_notreleased
+/functions
+/src/lib/ServiceAccountKey.json

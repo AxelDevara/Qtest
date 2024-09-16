@@ -1,0 +1,80 @@
+{
+  "METAL": {
+    "912321932931": {
+      "name": "Metal Matte Black",
+      "finishing": "Metal",
+      "type": "Card",
+      "url": "https://qubic.id/shop",
+      "material": "Metal",
+      "color": "Black",
+      "price": 250000,
+      "category": "Metal Card",
+      "id": "912321932931",
+      "image": "https://qubicmedia.s3.ap-southeast-1.amazonaws.com/cards/black4.png"
+    },
+    "912321932932": {
+      "name": "Metal Matte White",
+      "finishing": "Metal",
+      "type": "Card",
+      "url": "https://qubic.id/shop",
+      "material": "Metal",
+      "color": "Silver",
+      "price": 250000,
+      "category": "Metal Card",
+      "id": "912321932932",
+      "image": "https://qubicmedia.s3.ap-southeast-1.amazonaws.com/cards/white6.png"
+    },
+    "912321932933": {
+      "name": "Metal Brushed Red",
+      "finishing": "Metal",
+      "type": "Card",
+      "url": "https://qubic.id/shop",
+      "material": "Metal",
+      "color": "Red",
+      "price": 300000,
+      "category": "Metal Card",
+      "id": "912321932933",
+      "image": "https://qubicmedia.s3.ap-southeast-1.amazonaws.com/cards/b_red.jpg"
+    },
+    "912361932992": {
+      "name": "Metal Brushed Black",
+      "finishing": "Metal",
+      "type": "Card",
+      "url": "https://qubic.id/shop",
+      "material": "Metal",
+      "color": "Black",
+      "price": 300000,
+      "category": "Metal Card",
+      "id": "912321932933",
+      "image": "https://qubicmedia.s3.ap-southeast-1.amazonaws.com/cards/b_black.jpg"
+    }
+  },
+  "PVC": {
+    "912321932935": {
+      "name": "PVC",
+      "finishing": "PVC",
+      "type": "Card",
+      "url": "https://qubic.id/shop",
+      "material": "PVC",
+      "color": "Gloss White",
+      "price": 150000,
+      "category": "PVC Card",
+      "id": "912321932935",
+      "image": "https://qubicmedia.s3.ap-southeast-1.amazonaws.com/cards/white7.jpg"
+    }
+  },
+  "QUBICTAP": {
+    "912321932936": {
+      "name": "Qubic Tap",
+      "finishing": "PVC",
+      "material": "Metal",
+      "url": "https://qubic.id/shop",
+      "type": "Tap",
+      "color": "Black",
+      "price": 100000,
+      "category": "Tap",
+      "id": "912321932936",
+      "image": "https://qubicmedia.s3.ap-southeast-1.amazonaws.com/catalog/Qubic+Tap+Small.png"
+    }
+  }
+}
