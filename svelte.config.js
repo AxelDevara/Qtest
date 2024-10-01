@@ -11,10 +11,6 @@ const config = {
   preprocess: vitePreprocess(),
   kit: {
     adapter: adapter({
-			// default options are shown. On some platforms
-			// these options are set automatically — see below
-			edge: 'false',
-			split: 'false',
 		}),
     alias: {
       '@pages': path.resolve('./src/pages'),
