@@ -2,8 +2,8 @@ import supabase from "@lib/db.js";
 import admin from "firebase-admin";
 import * as fcm from "firebase-admin/messaging";
 
-import serviceAccount from "@lib/ServiceAccountKey.json";
-
+// import serviceAccount from "@lib/ServiceAccountKey.json";
+const serviceAccount = '';
 const generateEmailFunc = import.meta.env.VITE_CONNECT_WITH_ME_URL;
 
 export const POST = async (ctx) => {
