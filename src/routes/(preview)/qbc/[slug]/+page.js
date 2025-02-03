@@ -27,18 +27,9 @@ export async function load(ctx) {
   };
 
   const checkIsTeamCard = async () => {
-    const { data, error } = await supabase
-      .from('business_cards')
-      .select('mode,team_id')
-      .eq('id', ctx.params.slug);
-    if (error) console.log(error);
-    if (data) {
-      if (data[0]?.mode === 'team') {
-        return { isTeamMode: true, teamId: data[0].team_id };
-      } else {
-        return { isTeamMode: false, teamId: null };
-      }
-    }
+
+    return { isTeamMode: false, teamId: null };
+
   };
 
   const checkIsActivatedBasic = async () => {
@@ -97,10 +88,10 @@ export async function load(ctx) {
       if (basicRes) {
         expiry.setMinutes(expiry.getMinutes() + 5);
         const thash = `&thash=${Math.floor(expiry.getTime() / 1000)}`;
-        
-          throw redirect(307, path.basic + thash);
-        
-        
+
+        throw redirect(307, path.basic + thash);
+
+
       } else {
         throw redirect(307, path.baseActivate + 'basic');
       }
