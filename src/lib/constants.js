@@ -1,32 +1,32 @@
 export const qubicGradient = 'bg-gradient-to-tl from-blue-400 to-indigo-500';
 
 export const socialIcons = {
-  maps: 'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/gmaps.svg',
-  threads: 'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/threads.png',
+  maps: 'https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_maps_google-256.png',
+  threads: 'https://cdn3.iconfinder.com/data/icons/social-media-2247/100/Threads-2-256.png',
   twitter:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-twitter.svg',
+    'https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-256.png',
   facebook:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-facebook.svg',
+    'https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png',
   youtube:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-youtube.svg',
+    'https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-256.png',
   linkedin:
     'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-linkedin.svg',
   whatsapp:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-whatsapp.svg',
+    'https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/13-whatsapp-512.png',
   instagram:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-instagram.svg',
+    'https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png',
   tiktok:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-tiktok.svg',
+    'https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/2840/tiktok-logo-256.png',
   email:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-mail.png',
+    'https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png',
   phone:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-phone.png',
-  line: 'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/icons8-line.svg',
-  github: 'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/github.svg',
+    'https://cdn4.iconfinder.com/data/icons/socialcones/508/Viber-256.png',
+  line: 'https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_5-line-256.png',
+  github: 'https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-256.png',
   telegram:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/telegram.svg',
+    'https://cdn1.iconfinder.com/data/icons/unicons-line-vol-6/24/telegram-256.png',
   discord:
-    'https://qubicmedia.s3.ap-southeast-1.amazonaws.com/icons/discord.svg',
+    'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-256.png',
 };
 
 export const cartImage = {
